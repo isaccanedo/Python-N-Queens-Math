@@ -1,0 +1,2 @@
+# Python-N-Queens-Math
+:mag_right: O problema das n rainhas é: colocar N rainhas em um tabuleiro de xadrez N * N de forma que nenhuma rainha possa atacar qualquer outra rainha colocada naquele tabuleiro. Isso significa que uma rainha não pode ter nenhuma outra rainha em suas linhas horizontais, verticais e diagonais. Solução: Para resolver este problema, usaremos matemática simples. Primeiro sabemos que a rainha pode se mover de todas as maneiras possíveis, podemos simplificá-la desta forma: vertical, horizontal, diagonal esquerda e diagonal direita.
